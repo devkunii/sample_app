@@ -12,6 +12,7 @@ gem 'jbuilder',     '2.6.4'
 gem 'minitest', group: :test
 gem 'minitest-reporters', group: :test
 gem 'rails-controller-testing'
+gem 'pg'
 
 
 group :development, :test do
